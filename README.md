@@ -5,7 +5,7 @@ The purpose of this project is to summarize NBA's team performance during the 20
   3. Average Rebounds
   4. Average Free Throws  
   5. Average Blocks  
-  6. AverageAsists 
+  6. Average Asists 
   7. Average Steals 
 
 You can also visit [https://public.tableau.com/shared/G5WM3XC6H?:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/NBA2022-2023Summary/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) for user-interactive visualization
