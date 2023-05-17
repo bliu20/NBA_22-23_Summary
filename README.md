@@ -8,7 +8,7 @@ The purpose of this project is to summarize NBA's team performance during the 20
   6. Asists per Game
   7. Steals per Game
 
-You can also visit https://public.tableau.com/shared/G5WM3XC6H?:display_count=n&:origin=viz_share_link for user-interactive visualization
+You can also visit [https://public.tableau.com/shared/G5WM3XC6H?:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/NBA2022-2023Summary/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) for user-interactive visualization
 
 # Sources:
 The data can found from:
